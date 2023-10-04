@@ -1,6 +1,6 @@
 public class Principal {
     public static void main(String[] args) {
-    // Crear una instancia de la clase Biblioteca llamada bibliotecaKonradLorenz.
+    // Crear objeto de la clase Biblioteca llamada bibliotecaKonradLorenz.
        Biblioteca bibliotecaKonradLorenz = new Biblioteca();
 
         // Crear varios objetos de la clase Libro.
